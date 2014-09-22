@@ -6,13 +6,10 @@ body {
 }
 
 h1 {
-    font-size: 2em;
+    font-size: 1.5em;
     color:#f6e3ce;
 }
 
-h2 {
-    font-size: 1.5em;
-}
 
 a {
     text-decoration: none;

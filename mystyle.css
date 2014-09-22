@@ -1,0 +1,21 @@
+body {
+	background-color:teal;
+    font-family: verdana, arial, helvetica, sans-serif;
+    font-size: 14px;
+    color: white;
+}
+
+h1 {
+    font-size: 2em;
+    color:#f6e3ce;
+}
+
+h2 {
+    font-size: 1.5em;
+}
+
+a {
+    text-decoration: none;
+    color: navy
+}
+

@@ -1,13 +1,17 @@
 body {
-	background-color:teal;
+	background-color:white;
     font-family: verdana, arial, helvetica, sans-serif;
     font-size: 14px;
-    color: white;
+    color: navy;
 }
 
+
 h1 {
-    font-size: 1.5em;
+    font-size: 1.5em;    
     color:#f6e3ce;
+    background-color: teal;
+    margin: 20px;
+    padding: 40px;
 }
 
 

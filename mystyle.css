@@ -17,8 +17,6 @@ h1 {
 h3 {
      font-size: 1em;    
      color:teal;
-
-    
 }
 
 
@@ -27,3 +25,10 @@ a {
     color: #29088a;
 }
 
+div {
+    background-color: #f2f2f2;
+    width: 600px;
+    padding: 25px;
+    border: 25px #01a9db;
+    margin: 25px;
+}

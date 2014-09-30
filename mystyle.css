@@ -1,21 +1,34 @@
 body {
-	background-color:teal;
+    background-color:white;
     font-family: verdana, arial, helvetica, sans-serif;
     font-size: 14px;
-    color: white;
+    color: navy;
 }
+
 
 h1 {
-    font-size: 2em;
-    color:#f6e3ce;
+     font-size: 1.5em;    
+     color:#f6e3ce;
+     background-color: teal;
+     margin: 20px;
+     padding: 40px;
 }
 
-h2 {
-    font-size: 1.5em;
+h3 {
+     font-size: 1em;    
+     color:teal;
 }
+
 
 a {
-    text-decoration: none;
-    color: navy
+    text-decoration: uderline;
+    color: #29088a;
 }
 
+div {
+    background-color: #f2f2f2;
+    width: 600px;
+    padding: 25px;
+    border: 25px #01a9db;
+    margin: 25px;
+}
